@@ -2,7 +2,7 @@
 // is governed by a BSD-style license that can be found in the LICENSE file.
 
 import 'dart:async';
-import 'package:title_by_route_service/title_by_route_service.dart';
+import 'package:angular2_title_by_route_service/angular2_title_by_route_service.dart';
 import 'package:test/test.dart';
 import 'package:angular2/angular2.dart';
 import 'package:angular2/router.dart';
