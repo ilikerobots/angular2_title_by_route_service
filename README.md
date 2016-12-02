@@ -1,6 +1,9 @@
 # angular2_title_by_route_service
+[![Pub](https://img.shields.io/pub/v/angular2_title_by_route_service.svg?maxAge=2592000?style=flat-square)](https://pub.dartlang.org/packages/angular2_title_by_route_service)
+[![Travis](https://img.shields.io/travis/ilikerobots/angular2_title_by_route_service.svg?maxAge=2592000?style=flat-square)](https://github.com/ilikerobots/angular2_title_by_route_service)
 
-An Angular2 service for setting documet titles on Route changes.
+
+An Angular2 service for setting document titles on Route changes.
 
 ## Usage
 
