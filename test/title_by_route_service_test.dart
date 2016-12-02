@@ -1,6 +1,8 @@
 // Copyright (c) 2016, Mike Hoolehan. All rights reserved. Use of this source code
 // is governed by a BSD-style license that can be found in the LICENSE file.
 
+@TestOn("browser || content-shell")
+
 import 'dart:async';
 import 'package:angular2_title_by_route_service/angular2_title_by_route_service.dart';
 import 'package:test/test.dart';
