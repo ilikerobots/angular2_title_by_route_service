@@ -1,0 +1,15 @@
+name: angular2_title_by_route_service
+description: Angular2 service for settings document titles from routes
+version: 0.0.1
+author: ilikerobots <mike@hoolehan.com>
+homepage: https://github.com/ilikerobots/angular2_title_by_route_service
+
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+dependencies:
+    angular2: ^2.2.0
+dev_dependencies:
+  test: '^0.12.16'
+  mockito: ^1.0.1
+transformers:
+- angular2
